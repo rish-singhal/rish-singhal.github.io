@@ -11,12 +11,10 @@ topics: NodeJS, MongoDB
       A simple To-Do App to keep track of what you do.
     </p>
     
-    
     <p class="font-weight-bold" markdown="1">
       Links:
-      [GitHub](https://github.com/ekzhang/crepe),
-      [Crates.io](https://crates.io/crates/crepe),
-      [Documentation](https://docs.rs/crepe)
+      [GitHub](https://github.com/rish-singhal/To-Do-application),
+      [Demo](https://todorish.herokuapp.com/)
     </p>
 
   </div>
