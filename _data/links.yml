@@ -13,21 +13,21 @@ nav:
 
 social:
   - name: GitHub
-    href: https://github.com/ekzhang
+    href: https://github.com/rish-singhal
     icon: fab fa-github
     color: "#24292e"
 
-  - name: Facebook
-    href: https://fb.me/ekzhang
-    icon: fab fa-facebook
+  - name: LinkedIn
+    href: https://linkedin.com/in/3rishsinghal
+    icon: fab fa-linkedin
     color: "#3b5998"
 
-  - name: Quora
-    href: https://www.quora.com/profile/Eric-Zhang-99
-    icon: fab fa-quora
+  - name: Instagram
+    href: https://www.instagram.com/314_rishs/
+    icon: fab fa-instagram
     color: "#aa2200"
 
   - name: Mail
-    href: mailto:ekzhang1@gmail.com
+    href: mailto:rishabh.singhal@research.iiit.acin
     icon: fas fa-envelope
     color: "#333"
