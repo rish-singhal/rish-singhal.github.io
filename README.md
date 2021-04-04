@@ -2,7 +2,7 @@
 
 Source code for my [personal website](https://www.rish-singhal.github.io/), hosted on GitHub Pages.
 
-Build with:
+Build on local machine with:
 
 ```
 $ bundle install
