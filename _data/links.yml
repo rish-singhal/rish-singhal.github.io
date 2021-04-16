@@ -5,8 +5,8 @@ nav:
   - name: Projects
     href: /projects
 
-  - name: Posts
-    href: /blog
+  - name: Blogs
+    href: https://rish-singhal.github.io/blogs
 
   - name: Resume
     href: /resume
