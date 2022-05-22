@@ -27,6 +27,11 @@ social:
     icon: fab fa-instagram
     color: "#aa2200"
 
+  - name: Twitter
+    href: https://twitter.com/rishsinghal1
+    icon: fab fa-twitter
+    color: "#00acee"
+
   - name: Mail
     href: mailto:rishabh.singhal@research.iiit.acin
     icon: fas fa-envelope
