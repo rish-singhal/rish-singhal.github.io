@@ -12,6 +12,11 @@ nav:
     href: /resume
 
 social:
+  - name: Mail
+    href: mailto:rishabhsinghal.im@gmail.com
+    icon: fas fa-envelope
+    color: "#333"
+
   - name: GitHub
     href: https://github.com/rish-singhal
     icon: fab fa-github
@@ -26,13 +31,3 @@ social:
     href: https://www.instagram.com/314_rishs/
     icon: fab fa-instagram
     color: "#aa2200"
-
-  - name: Twitter
-    href: https://twitter.com/rishsinghal1
-    icon: fab fa-twitter
-    color: "#00acee"
-
-  - name: Mail
-    href: mailto:rishabh.singhal@research.iiit.acin
-    icon: fas fa-envelope
-    color: "#333"
